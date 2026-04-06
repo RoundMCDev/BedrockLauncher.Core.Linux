@@ -20,7 +20,7 @@ namespace BedrockLauncher.Core.Linux
 	{
 		Preview,
 		Release,
-		Beta,
+		All,
 	}
 	public class BedrockCore
 	{
@@ -41,7 +41,6 @@ namespace BedrockLauncher.Core.Linux
 						{
 							MinecraftGameTypeVersion.Release => _DEFINE_REF2.rel,
 							MinecraftGameTypeVersion.Preview => _DEFINE_REF2.pre,
-							MinecraftGameTypeVersion.Beta => _DEFINE_REF2.pre,
 							_ => null
 						});
 						var msiXvdDecoder = new MsiXVDDecoder(cik);
