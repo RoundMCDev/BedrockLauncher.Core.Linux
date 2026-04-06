@@ -64,26 +64,6 @@ namespace BedrockLauncher.Core.CoreOption
 		/// <summary>
 		/// The package has been successfully extracted
 		/// </summary>
-		Extracted,
-
-		/// <summary>
-		/// The package is being registered with the system
-		/// </summary>
-		Registering,
-
-		/// <summary>
-		/// The package has been successfully registered
-		/// </summary>
-		Registered,
-
-		/// <summary>
-		/// The installation is being cleaned up
-		/// </summary>
-		Clearing,
-
-		/// <summary>
-		/// The installation has been successfully cleaned up
-		/// </summary>
-		Cleared
+		Extracted
 	}
 }
