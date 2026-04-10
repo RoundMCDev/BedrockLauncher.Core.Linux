@@ -5,6 +5,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
 	  <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Title>BedrockLauncher.Core.Linux</Title>
+    <Authors>Round-Studio</Authors>
+    <Description>BedrockLauncher.Core for Linux</Description>
   </PropertyGroup>
 	<Target Name="PreBuild" BeforeTargets="PreBuildEvent">
 		<Exec Command="dotnet fsi BuildChain/BuilderBefore.fsx" />
