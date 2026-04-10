@@ -1,6 +1,6 @@
 using System.Runtime.InteropServices;
 using BedrockLauncher.Core;
-using BedrockLauncher.Core.Linux;
+using BedrockLauncher.Core;
 using BedrockLauncher.Core.VersionJsons;
 
 namespace CoreTest;

@@ -3,7 +3,7 @@ using System.Text.Json;
 using System.Text.Json.Nodes;
 using System.Text.Json.Serialization;
 using BedrockLauncher.Core;
-using BedrockLauncher.Core.Linux;
+using BedrockLauncher.Core;
 using BedrockLauncher.Core.SoureGenerate;
 
 public class BuildDatabase

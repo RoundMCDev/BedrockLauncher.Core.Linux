@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using BedrockLauncher.Core.Linux;
+using BedrockLauncher.Core;
 
 namespace BedrockLauncher.Core.CoreOption
 {

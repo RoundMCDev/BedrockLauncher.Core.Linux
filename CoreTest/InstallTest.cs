@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using BedrockLauncher.Core;
 using BedrockLauncher.Core.CoreOption;
-using BedrockLauncher.Core.Linux;
+using BedrockLauncher.Core;
 using BedrockLauncher.Core.VersionJsons;
 
 namespace CoreTest

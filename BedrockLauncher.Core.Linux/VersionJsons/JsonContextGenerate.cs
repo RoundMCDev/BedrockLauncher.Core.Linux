@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 using System.Text.Json.Serialization;
-using BedrockLauncher.Core.Linux;
+using BedrockLauncher.Core;
 
 namespace BedrockLauncher.Core.SoureGenerate;
 

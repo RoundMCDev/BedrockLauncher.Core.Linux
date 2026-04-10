@@ -7,7 +7,7 @@ using BedrockLauncher.Core.CoreOption;
 using BedrockLauncher.Core.GdkDecode;
 using BedrockLauncher.Core.Utils;
 
-namespace BedrockLauncher.Core.Linux
+namespace BedrockLauncher.Core
 {
 	public enum MinecraftBuildTypeVersion
 	{
