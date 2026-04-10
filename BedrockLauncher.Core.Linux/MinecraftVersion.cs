@@ -19,7 +19,7 @@ public class MinecraftGameTypeVersionConverter : JsonConverter<MinecraftGameType
 			{
 				"preview" => MinecraftGameTypeVersion.Preview,
 				"release" => MinecraftGameTypeVersion.Release,
-				"beta" => MinecraftGameTypeVersion.Beta,
+				"beta" => MinecraftGameTypeVersion.Preview,
 				_ => MinecraftGameTypeVersion.Release
 			};
 		}
